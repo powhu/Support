@@ -1,0 +1,8 @@
+{
+    "beacons" : [
+        {
+            "name" : "estimote",
+            "uuid" : "E9946DEF-DB73-4D71-8423-A0E052B49135"
+        }
+    ]
+}
